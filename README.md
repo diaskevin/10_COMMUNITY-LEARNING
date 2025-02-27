@@ -1,11 +1,16 @@
 # 10_COMMUNITY-LEARNING
 
-CH03 The primary objective of this chapter is to improve 'extensibility' of running automation testing across several configurations 
+CH03 
+The primary objective of this chapter is to improve 'extensibility' of running automation testing across several configurations 
 	Browser types		
   	Devices 
 	Operating systems
 
-CH10 The primary objective of this chapter is to improve the 'extensibility' of code pushed to the cloud repo
+
+
+
+CH10
+The primary objective of this chapter is to improve the 'extensibility' of code pushed to the cloud repo
 	Prepared in different IDE
  	Depenency respolution across different project build types (JAR's and maven POM)	
 
