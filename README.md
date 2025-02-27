@@ -8,4 +8,5 @@ Validate Chapter 10_COMMUNITY LEARNING as a replacement for Rakesh private Tutor
 	    				do -while
 	 				try -catch
       					return
-OK Verify Complete the statement on typing a method declaration (AI completed Parenthesis and brackets)
+    OK      Verify Complete the statement on typing a method declaration (AI completed Parenthesis and brackets)
+    Verify the use of Copilot to review ALL of my Repo project  
