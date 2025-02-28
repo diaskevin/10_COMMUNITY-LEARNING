@@ -35,6 +35,10 @@ The third objective of this chapter is to explore 'community learning' as a repl
    	Tools Tips (IDE)
    	Class Tuition
     	Support Paid on a one-to-one basis 
+
+The fourth objective of this chapter is to explore 'central management'of a test run on a remote DevOps ephemeral agent:
+	Central Reporting
+ 	Local Logs 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 CH01        
 WIP    Verify use of IntelliJ TIPS to 'write CH01 statement that are of a syntactically correct construct' 
