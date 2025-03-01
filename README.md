@@ -29,11 +29,11 @@ This requirement will allow a 'constant runner', required to monitored non funct
 	 			Ops:		
      						Performance: 	   Across devices
     						Vulnerability: 	   Latest versions run
-The fourth objective of this chapter is to expand 'central management' of tests run on a remote DevOps ephemeral agent:
+The third objective of this chapter is to expand 'central management' of tests run on a remote DevOps ephemeral agent:
 				Central Reporting
 			 	Local Logs 
 		     
-The third objective of this chapter is to indentify & target my 'skill areas' that require maturing (Chapter_95_WIP) i.e.
+The fourth objective of this chapter is to indentify & target my 'skill areas' that require maturing (Chapter_95_WIP) i.e.
 				DEBUGGING
 
 The fifth objective of this chapter is to improve the 'quality' of Chapters 00-09 using 'new Era' AI technology and open source 'community learning' techniques to replace one-to-one tution  
