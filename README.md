@@ -47,9 +47,9 @@ The fifth objective of this chapter is to improve the 'quality' of Chapters 00-0
 ----------------------------------------------------------------------------------------------------------------------------------------------
 CH01
 
-WIP	Verify No chapter 99 (no duplicate code)
-WIP     Verify chapter for MAC, 
-WIP 	Verify Backwardly compatable (Legacy Version & Obsolete)  
+WIP	Verify Not_running Chapter 99 (no duplicate code)
+WIP     Verify chapter for MAC- CH98
+WIP 	Verify Backwardly compatable (Legacy Version-CH97 & Obsolete-96)  
 WIP    	Verify use of IntelliJ TIPS to 'write CH01 statement that are of a syntactically correct construct' 
 	   	Use IntelliJ TIP: Complete the statement Ctrl   Shift   ↩ Enter		 	
 	       			Start by typing a method declaration, a method call or a statements:
@@ -58,6 +58,8 @@ WIP    	Verify use of IntelliJ TIPS to 'write CH01 statement that are of a synta
 		 			try -catch
 	      				return
 WIP     Verify the use of Copilot to review ALL of my Repo project
+
+
 OK      Verify no Chapter 94 Old duplicate
 OK     	Created chapter 95    
 OK     	Verify AI_complete_statement on typing a method declaration (AI completed Parenthesis and brackets)
