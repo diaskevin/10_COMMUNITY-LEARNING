@@ -45,7 +45,8 @@ The fifth objective of this chapter is to improve the 'quality' of Chapters 00-0
    			   	Class Tuition
     				Support Paid on a one-to-one basis   	   
 ----------------------------------------------------------------------------------------------------------------------------------------------
-CH01        
+CH01
+WIP     Verify no Chapter 94 Old duplicate
 WIP	Verify No chapter 99 (no duplicate code)
 WIP     Verify chapter for MAC, 
 WIP 	Verify Backwardly compatable (Legacy Version & Obsolete)  
