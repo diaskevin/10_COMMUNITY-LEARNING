@@ -35,7 +35,10 @@ The third objective of this chapter is to expand 'central management' of tests r
 		     
 The fourth objective of this chapter is to indentify & target my 'skill areas' that require maturing (Chapter_95_WIP) i.e.
 				DEBUGGING
-
+----------------------------------------------------------------------------------------------------------------------------------------------
+Rakesh NAILED completed!
+----------------------------------------------------------------------------------------------------------------------------------------------
+CH20 NEW ERA TECH
 The fifth objective of this chapter is to improve the 'quality' of Chapters 00-09 using 'new Era' AI technology and open source 'community learning' techniques to replace one-to-one tution  
 		New Era Technology
  				Tools Tips (IntelliJ_IDE)-Tips
@@ -59,7 +62,7 @@ WIP    	Verify use of IntelliJ TIPS to 'write CH01 statement that are of a synta
 	      				return
 WIP     Verify the use of Copilot to review ALL of my Repo project
 
-
+OK      Verify created CH20 NEW ERA TECH & Collab (PostRakesh) 
 OK      Verify no Chapter 94 Old duplicate
 OK     	Created chapter 95    
 OK     	Verify AI_complete_statement on typing a method declaration (AI completed Parenthesis and brackets)
