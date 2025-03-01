@@ -29,13 +29,12 @@ This requirement will allow a 'constant runner', required to monitored non funct
 	 			Ops:		
      						Performance: 	   Across devices
     						Vulnerability: 	   Latest versions run
-		     
-The third objective of this chapter is to indentify & target my 'skill areas' that require maturing (Chapter_95_WIP) i.e.
-				DEBUGGING
-
 The fourth objective of this chapter is to expand 'central management' of tests run on a remote DevOps ephemeral agent:
 				Central Reporting
 			 	Local Logs 
+		     
+The third objective of this chapter is to indentify & target my 'skill areas' that require maturing (Chapter_95_WIP) i.e.
+				DEBUGGING
 
 The fifth objective of this chapter is to improve the 'quality' of Chapters 00-09 using 'new Era' AI technology and open source 'community learning' techniques to replace one-to-one tution  
 		New Era Technology
@@ -47,7 +46,9 @@ The fifth objective of this chapter is to improve the 'quality' of Chapters 00-0
     				Support Paid on a one-to-one basis   	   
 ----------------------------------------------------------------------------------------------------------------------------------------------
 CH01        
-WIP    Verify use of IntelliJ TIPS to 'write CH01 statement that are of a syntactically correct construct' 
+WIP	Verify No chapter 99 (no duplicate code)
+WIP     Verify chapter for MAC, Backwardly compatable (Legacy Version & Obsolete)  
+WIP    	Verify use of IntelliJ TIPS to 'write CH01 statement that are of a syntactically correct construct' 
 	   	Use IntelliJ TIP: Complete the statement Ctrl   Shift   ↩ Enter		 	
 	       			Start by typing a method declaration, a method call or a statements:
 	       				if
@@ -56,5 +57,5 @@ WIP    Verify use of IntelliJ TIPS to 'write CH01 statement that are of a syntac
 	      				return
 WIP     Verify the use of Copilot to review ALL of my Repo project
 
-    
-OK     Verify AI_complete_statement on typing a method declaration (AI completed Parenthesis and brackets)
+OK     	Created chapter 95    
+OK     	Verify AI_complete_statement on typing a method declaration (AI completed Parenthesis and brackets)
